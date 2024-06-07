@@ -1,0 +1,15 @@
+base_url = "https://gp-seminar-series.github.io/neurips-2024"
+compile_sass = true
+build_search_index = false
+generate_feed = false
+minify_html = true
+theme = "academic-workshop"
+
+[markdown]
+highlight_code = false
+smart_punctuation = true
+
+[extra]
+title = {tagline = "NeurIPS workshop proposal on", title = "Bayesian Decision-making and Uncertainty", subtitle = "December 14-15, 2024"}
+banner = {extension = "svg", size = "fit-height", fade = true}
+header_pages = [{name = "Home", url = "/#home"},{name = "Schedule", url = "/#schedule"}]
