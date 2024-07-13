@@ -25,11 +25,11 @@ We seek to foster a vibrant exchange of ideas, showcase successful applications,
 
 {{ grid(
     text = [
-        ["Roman Garnett","Washington University in St. Louis and Uber","(confirmed)"], 
-        ["Jacob R. Gardner","University of Pennsylvania","(confirmed)"],
-        ["Virginia Aglietti","Google DeepMind","(confirmed)"],
-        ["Esther Rolf","University of Colorado Boulder","(confirmed)"],
-        ["Mark van der Wilk","University of Oxford","(confirmed)"],
+        ["Roman Garnett","Washington University in St. Louis and Uber"], 
+        ["Jacob R. Gardner","University of Pennsylvania"],
+        ["Virginia Aglietti","Google DeepMind"],
+        ["Esther Rolf","University of Colorado Boulder"],
+        ["Mark van der Wilk","University of Oxford"],
     ],
     urls = [
         "https://www.cse.wustl.edu/~garnett/",
@@ -51,7 +51,7 @@ We seek to foster a vibrant exchange of ideas, showcase successful applications,
 
 | Time (Canada) | Event |
 |---------------|-------|
-| 09:00 - 09:30 | **Introduction and Opening Remarks: Andreas Krause (confirmed)** |
+| 09:00 - 09:30 | **Introduction and Opening Remarks: Andreas Krause** |
 | 09:30 - 10:00 | Invited Talk |
 | 10:00 - 10:30 | **Coffee and Discussion** |
 | 10:30 - 11:00 | Invited Talk |
