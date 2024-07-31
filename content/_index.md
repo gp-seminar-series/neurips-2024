@@ -21,6 +21,46 @@ We seek to foster a vibrant exchange of ideas, showcase successful applications,
 
 
 
+# Call for Submissions
+
+We invite researchers to submit work for the NeurIPS 2024 workshop on Bayesian Decision-making and Uncertainty, to be held on December 14-15, 2024. We welcome submissions in areas including but not limited to:
+
+* Decision-making under uncertainty
+* Bayesian optimization
+* Probabilistic modeling
+* Gaussian processes
+* Active learning
+* Uncertainty quantification
+* Spatiotemporal modeling
+* Sequential experimental design
+* Forecasting for dynamical systems
+* Bayesian methods for large language models and frontier AI
+* Scaling Bayesian methods to handle complex, high-dimensional data and models
+* Applications in scientific discovery, drug design, hyperparameter tuning, environmental monitoring, robotics and other domains
+
+**Submission Guidelines:**
+
+* Submissions should be in the form of a 4-page extended abstract using the [workshop's LaTeX style](bdu_2024.sty).
+* Manuscripts should be anonymized in accordance with the [same rules as NeurIPS papers](https://neurips.cc/Conferences/2024/CallForPapers).
+* References and appendices may extend beyond the 4-page limit. We encourage the use of BibLaTeX.
+* If the submitted work has previously appeared in a journal or refereed workshop/conference proceedings, including the current NeurIPS proceedings, the workshop submission should extend the previous work.
+* Submission should be done via [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/BDU).
+
+**Important Dates:**
+
+* Submission deadline: **August 29, 2024**
+* Notification of acceptance: **September 29, 2024**
+* Workshop dates: **December 14-15, 2024**
+* Code of Conduct: Participants must agree to adhere to the NeurIPS code of conduct.
+
+## [Submit via OpenReview](https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/BDU)
+
+
+
+{{ new_block() }}
+
+
+
 # Speakers
 
 {{ grid(
