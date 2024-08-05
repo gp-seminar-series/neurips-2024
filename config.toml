@@ -10,6 +10,6 @@ highlight_code = false
 smart_punctuation = true
 
 [extra]
-title = {tagline = "NeurIPS workshop on", title = "Bayesian Decision-making and Uncertainty", subtitle = "December 14-15, 2024"}
+title = {tagline = "NeurIPS workshop on", title = "Bayesian Decision-making and Uncertainty", subtitles = ["Vancouver, British Columbia, Canada", "December 14-15, 2024"]}
 banner = {extension = "svg", size = "fit-height", fade = true}
 header_pages = [{name = "Home", url = "/#home"},{name = "Schedule", url = "/#schedule"}]
