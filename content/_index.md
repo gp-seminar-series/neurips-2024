@@ -44,6 +44,7 @@ We invite researchers to submit work for the NeurIPS 2024 workshop on Bayesian D
 * Manuscripts should be anonymized in accordance with the [same rules as NeurIPS papers](https://neurips.cc/Conferences/2024/CallForPapers).
 * References and appendices may extend beyond the 4-page limit. We encourage the use of BibLaTeX.
 * If the submitted work has previously appeared in a journal or refereed workshop/conference proceedings, including the current NeurIPS proceedings, the workshop submission should extend the previous work.
+* Accepted manuscripts will be made available on the workshop's website, but - following the standard format used by NeurIPS workshops - will not be published as part of official NeurIPS proceedings.
 * Submission should be done via [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/BDU).
 
 **Important Dates:**
