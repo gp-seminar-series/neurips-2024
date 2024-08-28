@@ -2,6 +2,12 @@
 title = "NeurIPS Workshop on Bayesian Decision-making and Uncertainty"
 +++
 
+# Deadline Extension
+
+## [Submit via OpenReview by September 5, 2024 (anywhere on earth)](https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/BDU)
+
+{{ new_block() }}
+
 # Abstract
 
 Recent advances in ML and AI have led to impressive achievements, yet models often struggle to express uncertainty, and more importantly, make decisions that account for uncertainty. 
@@ -49,7 +55,7 @@ We invite researchers to submit work for the NeurIPS 2024 workshop on Bayesian D
 
 **Important Dates:**
 
-* Submission deadline: **August 29, 2024 (anywhere on earth)**
+* Submission deadline: **September 5, 2024 (anywhere on earth)**
 * Notification of acceptance: **September 29, 2024**
 * Workshop dates: **December 14, 2024**
 * Code of Conduct: Participants must agree to adhere to the NeurIPS code of conduct.
