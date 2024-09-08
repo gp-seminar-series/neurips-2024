@@ -2,12 +2,6 @@
 title = "NeurIPS Workshop on Bayesian Decision-making and Uncertainty"
 +++
 
-# Deadline Extension
-
-## [Submit via OpenReview by September 5, 2024 (anywhere on earth)](https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/BDU)
-
-{{ new_block() }}
-
 # Abstract
 
 Recent advances in ML and AI have led to impressive achievements, yet models often struggle to express uncertainty, and more importantly, make decisions that account for uncertainty. 
