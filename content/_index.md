@@ -51,7 +51,7 @@ We invite researchers to submit work for the NeurIPS 2024 workshop on Bayesian D
 **Important Dates:**
 
 * Submission deadline: **September 5, 2024 (anywhere on earth)**
-* Notification of acceptance: **September 29, 2024**
+* Notification of acceptance: by **October 14, 2024**
 * Workshop dates: **December 14, 2024**
 * Code of Conduct: Participants must agree to adhere to the NeurIPS code of conduct.
 
