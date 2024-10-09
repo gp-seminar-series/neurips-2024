@@ -97,13 +97,15 @@ We invite researchers to submit work for the NeurIPS 2024 workshop on Bayesian D
 | 09:30 - 10:00 | Invited Talk |
 | 10:00 - 10:30 | **Coffee and Discussion** |
 | 10:30 - 11:00 | Invited Talk |
-| 11:00 - 11:15 | Contributed Talk |
-| 11:15 - 11:30 | Contributed Talk |
+| 11:00 - 11:10 | Contributed Talk |
+| 11:10 - 11:20 | Contributed Talk |
+| 11:20 - 11:30 | Contributed Talk |
 | 11:30 - 12:00 | Placeholder |
 | 12:00 - 13:00 | **Lunch and Poster Session Setup** |
 | 13:00 - 13:30 | Invited Talk |
-| 13:30 - 13:45 | Contributed Talk |
-| 13:45 - 14:00 | Contributed Talk |
+| 13:30 - 13:40 | Contributed Talk |
+| 13:40 - 13:50 | Contributed Talk |
+| 13:50 - 14:00 | Contributed Talk |
 | 14:00 - 14:30 | **Coffee and Discussion** |
 | 14:30 - 15:00 | Invited Talk |
 | 15:00 - 15:30 | Lightning Talks |
