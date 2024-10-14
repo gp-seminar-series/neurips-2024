@@ -167,3 +167,22 @@ We invite researchers to submit work for the NeurIPS 2024 workshop on Bayesian D
         "https://research.google/people/jasper-snoek/",
     ],
     image_dir = "advisors") }}
+
+
+
+{{ new_block() }}
+
+
+
+# Sponsors
+
+{{ grid(
+    text = [
+        ["Google Research"],
+    ],
+    urls = [
+        "https://research.google/",
+    ],
+    images = [
+        "sponsors/google-research.svg"
+    ]) }}
