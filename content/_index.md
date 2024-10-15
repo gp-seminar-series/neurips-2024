@@ -179,10 +179,13 @@ We invite researchers to submit work for the NeurIPS 2024 workshop on Bayesian D
 {{ grid(
     text = [
         ["Google Research"],
+        ["Meta"],
     ],
     urls = [
         "https://research.google/",
+        "https://ai.meta.com/",
     ],
     images = [
-        "sponsors/google-research.svg"
+        "sponsors/google-research.svg",
+        "sponsors/meta.svg"
     ]) }}
