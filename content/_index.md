@@ -17,50 +17,6 @@ We seek to foster a vibrant exchange of ideas, showcase successful applications,
 
 
 
-{{ new_block() }}
-
-
-
-# Call for Submissions
-
-We invite researchers to submit work for the NeurIPS 2024 workshop on Bayesian Decision-making and Uncertainty, to be held on December 14, 2024. We welcome submissions in areas including but not limited to:
-
-* Decision-making under uncertainty
-* Bayesian optimization
-* Probabilistic modeling
-* Gaussian processes
-* Active learning
-* Uncertainty quantification
-* Spatiotemporal modeling
-* Sequential experimental design
-* Forecasting for dynamical systems
-* Bayesian methods for large language models and frontier AI
-* Scaling Bayesian methods to handle complex, high-dimensional data and models
-* Applications in scientific discovery, drug design, hyperparameter tuning, environmental monitoring, robotics and other domains
-
-**Submission Guidelines:**
-
-* Submissions should be in the form of a 4-page extended abstract using the [workshop's LaTeX style](bdu_2024.sty).
-* Manuscripts should be anonymized in accordance with the [same rules as NeurIPS papers](https://neurips.cc/Conferences/2024/CallForPapers).
-* Unlike the main conference, we do not require a checklist to be added to the submission PDF.
-* References and appendices may extend beyond the 4-page limit. We encourage the use of BibLaTeX.
-* If the submitted work has previously appeared in a journal or refereed workshop/conference proceedings, including the current NeurIPS proceedings, the workshop submission should extend the previous work. Simultaneous submission of the same 4-page manuscript to multiple workshops is not allowed.
-* Accepted manuscripts will be made available on the workshop's website, but - following the standard format used by NeurIPS workshops - will not be published as part of official NeurIPS proceedings.
-* Submission should be done via [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/BDU).
-
-**Important Dates:**
-
-* Submission deadline: **September 5, 2024 (anywhere on earth)**
-* Notification of acceptance: by **October 14, 2024**
-* Workshop dates: **December 14, 2024**
-* Code of Conduct: Participants must agree to adhere to the NeurIPS code of conduct.
-
-## [Submit via OpenReview](https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/BDU)
-
-
-
-{{ new_block() }}
-
 
 
 # Speakers
@@ -95,24 +51,23 @@ We invite researchers to submit work for the NeurIPS 2024 workshop on Bayesian D
 |---------------|-------|
 | 09:00 - 09:30 | **Introduction and Opening Remarks: Andreas Krause** |
 | 09:30 - 10:00 | Invited Talk |
-| 10:00 - 10:30 | **Coffee and Discussion** |
+| 10:00 - 10:30 | **Discussion Break** |
 | 10:30 - 11:00 | Invited Talk |
 | 11:00 - 11:10 | Contributed Talk |
 | 11:10 - 11:20 | Contributed Talk |
 | 11:20 - 11:30 | Contributed Talk |
-| 11:30 - 12:00 | Placeholder |
-| 12:00 - 13:00 | **Lunch and Poster Session Setup** |
+| 11:30 - 12:30 | **Lunch and Poster Session Setup** |
+| 12:30 - 12:40 | Contributed Talk |
+| 12:40 - 12:50 | Contributed Talk |
+| 12:50 - 13:00 | Contributed Talk |
 | 13:00 - 13:30 | Invited Talk |
-| 13:30 - 13:40 | Contributed Talk |
-| 13:40 - 13:50 | Contributed Talk |
-| 13:50 - 14:00 | Contributed Talk |
-| 14:00 - 14:30 | **Coffee and Discussion** |
-| 14:30 - 15:00 | Invited Talk |
-| 15:00 - 15:30 | Lightning Talks |
-| 15:30 - 16:30 | **Poster Session** |
-| 16:30 - 17:00 | Invited Talk |
-| 17:00 - 17:55 | **Panel Discussion** | 
-| 17:55 - 18:00 | **Closing Remarks** |
+| 13:30 - 14:00 | **Discussion Break** |
+| 14:00 - 14:30 | Invited Talk |
+| 14:30 - 15:00 | Lightning Talks |
+| 15:00 - 16:00 | **Poster Session** |
+| 16:00 - 16:30 | Invited Talk |
+| 16:30 - 17:25 | **Panel Discussion** | 
+| 17:25 - 17:30 | **Closing Remarks** |
 
 
 
