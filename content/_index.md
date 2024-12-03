@@ -143,4 +143,8 @@ We seek to foster a vibrant exchange of ideas, showcase successful applications,
     images = [
         "sponsors/google-research.svg",
         "sponsors/meta.svg"
+    ],
+    dark_invert = [
+        false,
+        true
     ]) }}
