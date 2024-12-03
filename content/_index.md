@@ -50,22 +50,22 @@ We seek to foster a vibrant exchange of ideas, showcase successful applications,
 | Time (Canada) | Event |
 |---------------|-------|
 | 09:00 - 09:30 | **Introduction and Opening Remarks: Andreas Krause** |
-| 09:30 - 10:00 | Invited Talk |
+| 09:30 - 10:00 | Invited Talk: Mark van der Wilk |
 | 10:00 - 10:30 | **Discussion Break** |
-| 10:30 - 11:00 | Invited Talk |
-| 11:00 - 11:10 | Contributed Talk |
-| 11:10 - 11:20 | Contributed Talk |
-| 11:20 - 11:30 | Contributed Talk |
+| 10:30 - 11:00 | Invited Talk: Esther Rolf |
+| 11:00 - 11:10 | Contributed Talk: Mathieu Alain - Graph Classification Gaussian Processes via Hodgelet Spectral Features |
+| 11:10 - 11:20 | Contributed Talk: Taiwo Adebiyi - Gaussian Process Thompson Sampling via Rootfinding |
+| 11:20 - 11:30 | Contributed Talk: Freddie Bickford Smith - Rethinking Aleatoric and Epistemic Uncertainty |
 | 11:30 - 12:30 | **Lunch and Poster Session Setup** |
-| 12:30 - 12:40 | Contributed Talk |
-| 12:40 - 12:50 | Contributed Talk |
-| 12:50 - 13:00 | Contributed Talk |
-| 13:00 - 13:30 | Invited Talk |
+| 12:30 - 12:40 | Contributed Talk: Patrick O'Hara - Distributionally Robust Optimisation with Bayesian Ambiguity Sets |
+| 12:40 - 12:50 | Contributed Talk: Joachim Schaeffer - Lithium-Ion Battery System Health Monitoring and Resistance-Based Fault Analysis from Field Data Using Recursive Spatiotemporal Gaussian Processes |
+| 12:50 - 13:00 | Contributed Talk: Rafael Oliveira - Variational Search Distributions |
+| 13:00 - 13:30 | Invited Talk: Roman Garnett - What I learned while writing the BayesOpt book |
 | 13:30 - 14:00 | **Discussion Break** |
-| 14:00 - 14:30 | Invited Talk |
-| 14:30 - 15:00 | Lightning Talks |
+| 14:00 - 14:30 | Invited Talk: Jacob R. Garnder |
+| 14:30 - 15:00 | Lightning Talks: Guiomar Pescador-Barrios, Sebastian W. Ober, Conor Heins, Richard Bergna, Martin Trapp, Joshua Hang Sai Ip, Yibo Jiang, Dingyang Chen |
 | 15:00 - 16:00 | **Poster Session** |
-| 16:00 - 16:30 | Invited Talk |
+| 16:00 - 16:30 | Invited Talk: Virginia Aglietti - FunBO: Discovering Acquisition Functions for Bayesian Optimization with FunSearch |
 | 16:30 - 17:25 | **Panel Discussion** | 
 | 17:25 - 17:30 | **Closing Remarks** |
 
