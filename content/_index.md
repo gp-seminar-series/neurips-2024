@@ -50,7 +50,7 @@ We seek to foster a vibrant exchange of ideas, showcase successful applications,
 | Time (Canada) | Event |
 |---------------|-------|
 | 09:00 - 09:30 | **Introduction and Opening Remarks: Andreas Krause** |
-| 09:30 - 10:00 | Invited Talk: Mark van der Wilk |
+| 09:30 - 10:00 | Invited Talk: Mark van der Wilk - Open Problems in Gaussian Process Approximation and Benchmarking |
 | 10:00 - 10:30 | **Discussion Break** |
 | 10:30 - 11:00 | Invited Talk: Esther Rolf |
 | 11:00 - 11:10 | Contributed Talk: Mathieu Alain - Graph Classification Gaussian Processes via Hodgelet Spectral Features |
