@@ -17,6 +17,8 @@ We seek to foster a vibrant exchange of ideas, showcase successful applications,
 
 
 
+{{ new_block() }}
+
 
 
 # Speakers
@@ -148,3 +150,17 @@ We seek to foster a vibrant exchange of ideas, showcase successful applications,
         false,
         true
     ]) }}
+
+
+
+{{ new_block() }}
+
+
+
+# Accepted Workshop Papers
+
+{{ table(
+    data = "papers.csv", 
+    button_names = ["paper"], 
+    button_data_columns = [2], 
+    button_output_columns = [1]) }}
