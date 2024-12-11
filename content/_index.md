@@ -50,22 +50,22 @@ We seek to foster a vibrant exchange of ideas, showcase successful applications,
 | Time (Canada) | Event |
 |---------------|-------|
 | 09:00 - 09:30 | **Introduction and Opening Remarks: Andreas Krause** |
-| 09:30 - 10:00 | Invited Talk: Mark van der Wilk - Open Problems in Gaussian Process Approximation and Benchmarking |
+| 09:30 - 10:00 | Invited Talk: Mark van der Wilk - _Open Problems in Gaussian Process Approximation and Benchmarking_ |
 | 10:00 - 10:30 | **Discussion Break** |
-| 10:30 - 11:00 | Invited Talk: Esther Rolf - We need to talk (more) about uncertainty in geospatial machine learning |
-| 11:00 - 11:10 | Contributed Talk: Mathieu Alain - Graph Classification Gaussian Processes via Hodgelet Spectral Features |
-| 11:10 - 11:20 | Contributed Talk: Taiwo Adebiyi - Gaussian Process Thompson Sampling via Rootfinding |
-| 11:20 - 11:30 | Contributed Talk: Freddie Bickford Smith - Rethinking Aleatoric and Epistemic Uncertainty |
+| 10:30 - 11:00 | Invited Talk: Esther Rolf - _We need to talk (more) about uncertainty in geospatial machine learning_ |
+| 11:00 - 11:10 | Contributed Talk: Mathieu Alain - _Graph Classification Gaussian Processes via Hodgelet Spectral Features_ |
+| 11:10 - 11:20 | Contributed Talk: Taiwo Adebiyi - _Gaussian Process Thompson Sampling via Rootfinding_ |
+| 11:20 - 11:30 | Contributed Talk: Freddie Bickford Smith - _Rethinking Aleatoric and Epistemic Uncertainty_ |
 | 11:30 - 12:30 | **Lunch and Poster Session Setup** |
-| 12:30 - 12:40 | Contributed Talk: Patrick O'Hara - Distributionally Robust Optimisation with Bayesian Ambiguity Sets |
-| 12:40 - 12:50 | Contributed Talk: Joachim Schaeffer - Lithium-Ion Battery System Health Monitoring and Resistance-Based Fault Analysis from Field Data Using Recursive Spatiotemporal Gaussian Processes |
-| 12:50 - 13:00 | Contributed Talk: Rafael Oliveira - Variational Search Distributions |
-| 13:00 - 13:30 | Invited Talk: Roman Garnett - What I learned while writing the BayesOpt book |
+| 12:30 - 12:40 | Contributed Talk: Patrick O'Hara - _Distributionally Robust Optimisation with Bayesian Ambiguity Sets_ |
+| 12:40 - 12:50 | Contributed Talk: Joachim Schaeffer - _Lithium-Ion Battery System Health Monitoring and Resistance-Based Fault Analysis from Field Data Using Recursive Spatiotemporal Gaussian Processes_ |
+| 12:50 - 13:00 | Contributed Talk: Rafael Oliveira - _Variational Search Distributions_ |
+| 13:00 - 13:30 | Invited Talk: Roman Garnett - _What I learned while writing the BayesOpt book_ |
 | 13:30 - 14:00 | **Discussion Break** |
-| 14:00 - 14:30 | Invited Talk: Jacob R. Garnder - Bayesian optimization needs better deep learning |
+| 14:00 - 14:30 | Invited Talk: Jacob R. Garnder - _Bayesian optimization needs better deep learning_ |
 | 14:30 - 15:00 | Lightning Talks: Joshua Hang Sai Ip, Dingyang Chen, Guiomar Pescador-Barrios, Sebastian W. Ober, Conor Heins, Richard Bergna, Martin Trapp, Yibo Jiang |
 | 15:00 - 16:00 | **Poster Session** |
-| 16:00 - 16:30 | Invited Talk: Virginia Aglietti - FunBO: Discovering Acquisition Functions for Bayesian Optimization with FunSearch |
+| 16:00 - 16:30 | Invited Talk: Virginia Aglietti - _FunBO: Discovering Acquisition Functions for Bayesian Optimization with FunSearch_ |
 | 16:30 - 17:25 | **Panel Discussion** | 
 | 17:25 - 17:30 | **Closing Remarks** |
 
