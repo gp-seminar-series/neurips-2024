@@ -52,7 +52,7 @@ We seek to foster a vibrant exchange of ideas, showcase successful applications,
 | 09:00 - 09:30 | **Introduction and Opening Remarks: Andreas Krause** |
 | 09:30 - 10:00 | Invited Talk: Mark van der Wilk - Open Problems in Gaussian Process Approximation and Benchmarking |
 | 10:00 - 10:30 | **Discussion Break** |
-| 10:30 - 11:00 | Invited Talk: Esther Rolf |
+| 10:30 - 11:00 | Invited Talk: Esther Rolf - We need to talk (more) about uncertainty in geospatial machine learning |
 | 11:00 - 11:10 | Contributed Talk: Mathieu Alain - Graph Classification Gaussian Processes via Hodgelet Spectral Features |
 | 11:10 - 11:20 | Contributed Talk: Taiwo Adebiyi - Gaussian Process Thompson Sampling via Rootfinding |
 | 11:20 - 11:30 | Contributed Talk: Freddie Bickford Smith - Rethinking Aleatoric and Epistemic Uncertainty |
