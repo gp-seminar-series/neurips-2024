@@ -62,7 +62,7 @@ We seek to foster a vibrant exchange of ideas, showcase successful applications,
 | 12:50 - 13:00 | Contributed Talk: Rafael Oliveira - Variational Search Distributions |
 | 13:00 - 13:30 | Invited Talk: Roman Garnett - What I learned while writing the BayesOpt book |
 | 13:30 - 14:00 | **Discussion Break** |
-| 14:00 - 14:30 | Invited Talk: Jacob R. Garnder |
+| 14:00 - 14:30 | Invited Talk: Jacob R. Garnder - Bayesian optimization needs better deep learning |
 | 14:30 - 15:00 | Lightning Talks: Joshua Hang Sai Ip, Dingyang Chen, Guiomar Pescador-Barrios, Sebastian W. Ober, Conor Heins, Richard Bergna, Martin Trapp, Yibo Jiang |
 | 15:00 - 16:00 | **Poster Session** |
 | 16:00 - 16:30 | Invited Talk: Virginia Aglietti - FunBO: Discovering Acquisition Functions for Bayesian Optimization with FunSearch |
