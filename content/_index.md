@@ -161,6 +161,7 @@ We seek to foster a vibrant exchange of ideas, showcase successful applications,
 
 {{ table(
     data = "papers.csv", 
+    columns = ["Title","Authors"],
     button_names = ["paper"], 
     button_data_columns = [2], 
     button_output_columns = [1]) }}
