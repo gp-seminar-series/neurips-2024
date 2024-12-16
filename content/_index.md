@@ -51,10 +51,10 @@ We seek to foster a vibrant exchange of ideas, showcase successful applications,
 
 | Time (Canada) | Event |
 |---------------|-------|
-| 09:00 - 09:30 | **Introduction and Opening Remarks: Andreas Krause** |
-| 09:30 - 10:00 | Invited Talk: Mark van der Wilk - _Open Problems in Gaussian Process Approximation and Benchmarking_ |
+| 09:00 - 09:30 | **Introduction and Opening Remarks: Andreas Krause** {{ small_button(name = 'slides', url = 'slides/krause.pdf') }} |
+| 09:30 - 10:00 | Invited Talk: Mark van der Wilk - _Open Problems in Gaussian Process Approximation and Benchmarking_  {{ small_button(name = 'slides', url = 'slides/vanderwilk.pdf') }} |
 | 10:00 - 10:30 | **Discussion Break** |
-| 10:30 - 11:00 | Invited Talk: Esther Rolf - _We need to talk (more) about uncertainty in geospatial machine learning_ |
+| 10:30 - 11:00 | Invited Talk: Esther Rolf - _We need to talk (more) about uncertainty in geospatial machine learning_ {{ small_button(name = 'slides', url = 'slides/rolf.pdf') }} |
 | 11:00 - 11:10 | Contributed Talk: Mathieu Alain - _Graph Classification Gaussian Processes via Hodgelet Spectral Features_ |
 | 11:10 - 11:20 | Contributed Talk: Taiwo Adebiyi - _Gaussian Process Thompson Sampling via Rootfinding_ |
 | 11:20 - 11:30 | Contributed Talk: Freddie Bickford Smith - _Rethinking Aleatoric and Epistemic Uncertainty_ |
@@ -62,12 +62,12 @@ We seek to foster a vibrant exchange of ideas, showcase successful applications,
 | 12:30 - 12:40 | Contributed Talk: Patrick O'Hara - _Distributionally Robust Optimisation with Bayesian Ambiguity Sets_ |
 | 12:40 - 12:50 | Contributed Talk: Joachim Schaeffer - _Lithium-Ion Battery System Health Monitoring and Resistance-Based Fault Analysis from Field Data Using Recursive Spatiotemporal Gaussian Processes_ |
 | 12:50 - 13:00 | Contributed Talk: Rafael Oliveira - _Variational Search Distributions_ |
-| 13:00 - 13:30 | Invited Talk: Roman Garnett - _What I learned while writing the BayesOpt book_ |
+| 13:00 - 13:30 | Invited Talk: Roman Garnett - _What I learned while writing the BayesOpt book_ {{ small_button(name = 'slides', url = 'slides/garnett.pdf') }} |
 | 13:30 - 14:00 | **Discussion Break** |
 | 14:00 - 14:30 | Invited Talk: Jacob R. Garnder - _Bayesian optimization needs better deep learning_ |
 | 14:30 - 15:00 | Lightning Talks: Joshua Hang Sai Ip, Yibo Jiang, Dingyang Chen, Guiomar Pescador-Barrios, Sebastian W. Ober, Conor Heins, Richard Bergna, Martin Trapp |
 | 15:00 - 16:00 | **Poster Session** |
-| 16:00 - 16:30 | Invited Talk: Virginia Aglietti - _FunBO: Discovering Acquisition Functions for Bayesian Optimization with FunSearch_ |
+| 16:00 - 16:30 | Invited Talk: Virginia Aglietti - _FunBO: Discovering Acquisition Functions for Bayesian Optimization with FunSearch_ {{ small_button(name = 'slides', url = 'slides/aglietti.pdf') }} |
 | 16:30 - 17:25 | **Panel Discussion** | 
 | 17:25 - 17:30 | **Closing Remarks** |
 
